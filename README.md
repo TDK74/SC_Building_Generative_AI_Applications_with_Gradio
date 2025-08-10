@@ -3,7 +3,7 @@
 ### Acknowledgments
 The Python code is from the short course "Building Generative AI Applications with Gradio" on the DeepLearning.AI platform, available for free.  
 For more details, visit:  
-<>
+<https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/>
 
 ### Description
 This repository contains only Python code from my practice after each lesson.  
