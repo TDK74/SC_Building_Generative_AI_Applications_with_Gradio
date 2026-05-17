@@ -1,9 +1,9 @@
 # Short Course: Building Generative AI Applications with Gradio
 
 ### Acknowledgments
-The Python code is from the short course "Building Generative AI Applications with Gradio" on the DeepLearning.AI platform, available for free.  
+The Python code is from the short course "Building Generative AI Applications with Gradio" on the DeepLearning.AI platform. The course content is available for free, while the certificate and graded assessments require a paid subscription.  
 For more details, visit:  
-<https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/>
+<https://learn.deeplearning.ai/courses/building-generative-ai-applications-with-gradio/information/>
 
 ### Description
 This repository contains only Python code from my practice after each lesson.  
